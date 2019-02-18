@@ -88,8 +88,12 @@ background: #eee;
 
 .col-2 {
   /* this column will span two-thirds */
+  float: left;
+  width: 66%;
+  background: #ccc;
 }
 
 .col-3 {
   /* this column will span all the entire wrapper */
+  background: #ccc;
 }
